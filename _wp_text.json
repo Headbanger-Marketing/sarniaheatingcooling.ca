@@ -1,0 +1,279 @@
+{
+  "domain": "sarniaheatingcooling.ca",
+  "origin_ip": "152.53.124.236",
+  "title": "Sarnia Heating & Cooling - Heating & Cooling Repair Sarnia ON",
+  "blocks": [
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Trusted HVAC Contractor in Sarnia, Ontario",
+      "chars": 42
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Proudly serve the community, Sarnia Heating & Cooling , we treat your home comfort needs with the same care we’d give our own families.",
+      "chars": 135
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "100% Satisfaction Guaranteed",
+      "chars": 28
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Your Trusted Partner for Year-Round Comfort in Sarnia",
+      "chars": 53
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "At Sarnia Heating & Cooling , we know that a malfunctioning furnace or air conditioner isn’t just an inconvenience—it can disrupt your daily life. As a locally owned and operated company, we specialize in heating and cooling services designed for the Sarnia, Ontario climate. From keeping your air conditioning running smoothly in the summer heat to repairing your furnace during the cold winter months, our skilled team delivers reliable solutions, expert guidance, and professional service you can trust.",
+      "chars": 506
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "With deep roots in the Sarnia community, we know how crucial dependable heating and cooling systems are — especially through Sarnia’s chilly winters and humid summers. Our experienced HVAC professionals provide reliable heating, furnace, and air conditioning services you can trust throughout Sarnia and nearby areas.",
+      "chars": 317
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Comprehensive Heating & Cooling Services in Sarnia, Ontario",
+      "chars": 59
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "We offer a complete range of HVAC solutions designed to keep your home comfortable year‑round. Learn more about our key services:",
+      "chars": 129
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Cooling & Indoor Air Quality Services",
+      "chars": 37
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Beat the summer heat with our professional air conditioner repair and maintenance services, including central air and ductless systems. We also offer duct cleaning and air quality solutions to remove dust, allergens, and debris from your HVAC system, ensuring cleaner air and improved efficiency. With these services, your home stays cool, comfortable, and healthier year-round.",
+      "chars": 378
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Heating Solutions in Sarnia, Ontario",
+      "chars": 36
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Stay warm all winter with our comprehensive heating services. From expert furnace repair and maintenance to heat pump installation and repair , our technicians work on all major brands and models. We provide emergency service, routine tune-ups, and long-term solutions to keep your heating system running efficiently and reliably, helping you maintain comfort and reduce energy costs throughout Sarnia’s coldest months.",
+      "chars": 419
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Home Comfort Upgrades & Controls",
+      "chars": 32
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Enhance your home’s comfort with our range of thermostat repair and replacement , fireplace installation , and additional HVAC add-ons like humidifiers, water heaters, and gas line projects. Whether you need a smart thermostat, a cozy gas or electric fireplace, or extra systems to optimize your home environment, our team ensures seamless installation and reliable performance for lasting comfort.",
+      "chars": 398
+    },
+    {
+      "tag": "h2",
+      "kind": "faq_question",
+      "text": "Why Choose Sarnia Heating & Cooling?",
+      "chars": 36
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We pride ourselves on a customer-first approach that takes the stress out of HVAC repair. When you choose us, you get a seamless experience from a qualified HVAC technician.",
+      "chars": 173
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We begin every project with a detailed evaluation of your HVAC setup and transparent explanation of your options — whether you need a simple repair or a system replacement.",
+      "chars": 172
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Professional Service & Clean Work",
+      "chars": 33
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Our skilled technicians show up on time, work efficiently, and leave your home as clean as they found it — whether installing furnaces, servicing air conditioners, or replacing thermostats.",
+      "chars": 189
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Reliable Support Long After Installation",
+      "chars": 40
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We build lasting relationships with customers by offering ongoing maintenance and assistance to keep your HVAC systems running smoothly for years to come.",
+      "chars": 154
+    },
+    {
+      "tag": "h2",
+      "kind": "review_heading",
+      "text": "What Local Sarnia Homeowners Are Saying About Us",
+      "chars": 48
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Quick service and fantastic attention to detail during our furnace install — highly recommend!”",
+      "chars": 96
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Great team that explains everything simply and does quality work.”",
+      "chars": 67
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Our furnace failed on one of the coldest days of the year. Sarnia Heating & Cooling was able to come out within an hour to assess the situation and make necessary repairs. They got everything back to normal quickly. Transparent process and pricing.",
+      "chars": 249
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Here to Handle Your HVAC Needs",
+      "chars": 30
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Whether it’s routine maintenance or urgent repairs, our fully equipped experts are ready to assist with furnaces, air conditioners, thermostats, and more — no matter the brand or model. Serving Sarnia, ON and the surrounding Ontario communities",
+      "chars": 244
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Expert Advice & HVAC Insights",
+      "chars": 29
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Explore our latest articles to help you maintain your air quality and recognize when it’s time to call in the pros.",
+      "chars": 115
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Why Your Air Conditioner Struggles During Ontario’s Humid Summers – Sarnia Homeowner Guide",
+      "chars": 90
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Top Warning Signs Your Furnace Needs Service Before Winter in Sarnia, ON",
+      "chars": 72
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "How Often You Should Schedule HVAC Maintenance in Sarnia",
+      "chars": 56
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How soon can I get furnace repair in Sarnia, ON?",
+      "chars": 48
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Our team provides timely furnace repairs in Sarnia and prioritizes no‑heat calls when weather conditions demand it.",
+      "chars": 115
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "What AC repair services are available?",
+      "chars": 38
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We handle full air conditioner diagnostics, part replacements, and performance tune‑ups for both central and ductless cooling systems.",
+      "chars": 134
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How do I tell if my heat pump needs service?",
+      "chars": 44
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Uneven heating/cooling, strange noises, and higher energy bills are common indicators that your heat pump needs attention.",
+      "chars": 122
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Is duct cleaning necessary for my home?",
+      "chars": 39
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Cleaning out dust and buildup from ducts can improve HVAC efficiency and indoor air quality over time.",
+      "chars": 102
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Can you repair or replace my thermostat?",
+      "chars": 40
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "Yes, we service and install programmable or smart thermostats that help better manage your heating and cooling.",
+      "chars": 111
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We install gas and electric fireplaces to enhance warmth and ambience in your home.",
+      "chars": 83
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Are ductless systems a good option for Sarnia homes?",
+      "chars": 52
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Absolutely — ductless units offer flexible and energy‑efficient heating and cooling solutions without traditional ductwork.",
+      "chars": 123
+    }
+  ],
+  "text_chars": 5513,
+  "paragraph_chars": 4559
+}
